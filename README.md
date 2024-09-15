@@ -67,5 +67,11 @@ python app.py
 * Close the main window to minimize the application to the system tray.
 * Right-click the tray icon to show or quit the application.
 
+![Screenshot 2024-09-14 235828](https://github.com/user-attachments/assets/3bc6c362-d63f-4fd5-9759-326dbbf192ec)
+
+## Example
+
+![image](https://github.com/user-attachments/assets/6c544d0e-0c5c-4f30-b522-52a80ae871ab)
+
 ## License
 This project is licensed under the MIT License.
