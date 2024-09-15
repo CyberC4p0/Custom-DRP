@@ -37,8 +37,7 @@ This is a custom Discord Rich Presence application built using customtkinter for
 ## Installation
 ### 1. Clone the repository OR [Download]() the EXE File (unsigned):
 ```
-git clone https://github.com/yourusername/discord-rich-presence-app.git
-cd discord-rich-presence-app
+git clone https://github.com/CyberC4p0/Custom-DRP.git
 ```
 
 ### 2. Install the required libraries :
