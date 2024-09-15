@@ -48,7 +48,7 @@ pip install customtkinter pypresence pystray pillow
 ## Usage
 ### 1. Run the application:
 ```
-python app.py
+python main.py
 ```
 
 ### 2. Fill in the fields:
